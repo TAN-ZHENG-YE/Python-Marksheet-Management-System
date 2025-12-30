@@ -1,0 +1,120 @@
+Student ID: B2201278
+Student Name: TAN ZHENG YE
+Test 1 Mark: 88.0
+Assignment 1 Mark: 98.0
+Test 2 Mark: 68.0
+Assignment 2 Mark: 78.0
+Final Exam Mark: 89.0
+Total Mark: 86.6
+Final Grade: HD1
+--------------------------------------------------
+Student ID: B22012678
+Student Name: JUSTIN WONG
+Test 1 Mark: 34.0
+Assignment 1 Mark: 65.0
+Test 2 Mark: 76.0
+Assignment 2 Mark: 67.0
+Final Exam Mark: 86.0
+Total Mark: 75.8
+Final Grade: DI1
+--------------------------------------------------
+Student ID: B2345678
+Student Name: LIM BON TENG
+Test 1 Mark: 23.0
+Assignment 1 Mark: 54.0
+Test 2 Mark: 34.0
+Assignment 2 Mark: 23.0
+Final Exam Mark: 23.0
+Total Mark: 27.200000000000003
+Final Grade: F
+--------------------------------------------------
+Student ID: B2399999
+Student Name: TAYLOR SWIFT
+Test 1 Mark: 56.0
+Assignment 1 Mark: 56.0
+Test 2 Mark: 45.0
+Assignment 2 Mark: 45.0
+Final Exam Mark: 65.0
+Total Mark: 59.2
+Final Grade: PS1
+--------------------------------------------------
+Student ID: B2134567
+Student Name: JUSTIN BIEBER
+Test 1 Mark: 70.0
+Assignment 1 Mark: 70.0
+Test 2 Mark: 76.0
+Assignment 2 Mark: 66.0
+Final Exam Mark: 70.0
+Total Mark: 70.2
+Final Grade: DI2
+--------------------------------------------------
+Student ID: B2002678
+Student Name: ALAN WALKER
+Test 1 Mark: 10.0
+Assignment 1 Mark: 10.0
+Test 2 Mark: 20.0
+Assignment 2 Mark: 30.0
+Final Exam Mark: 50.0
+Total Mark: 37.0
+Final Grade: F
+--------------------------------------------------
+Student ID: B2112356
+Student Name: LEONARDO DICAPRIO
+Test 1 Mark: 88.0
+Assignment 1 Mark: 88.0
+Test 2 Mark: 78.0
+Assignment 2 Mark: 78.0
+Final Exam Mark: 67.0
+Total Mark: 73.4
+Final Grade: DI2
+--------------------------------------------------
+Student ID: B2278901
+Student Name: JAKE GYLLENHAAL
+Test 1 Mark: 90.0
+Assignment 1 Mark: 90.0
+Test 2 Mark: 78.0
+Assignment 2 Mark: 67.0
+Final Exam Mark: 99.0
+Total Mark: 91.9
+Final Grade: HD1
+--------------------------------------------------
+Student ID: B2089763
+Student Name: CATE BLANCHETT
+Test 1 Mark: 87.0
+Assignment 1 Mark: 67.0
+Test 2 Mark: 88.0
+Assignment 2 Mark: 88.0
+Final Exam Mark: 89.0
+Total Mark: 86.4
+Final Grade: HD1
+--------------------------------------------------
+Student ID: C2335678
+Student Name: RYAN GOSLING
+Test 1 Mark: 56.0
+Assignment 1 Mark: 56.0
+Test 2 Mark: 56.0
+Assignment 2 Mark: 56.0
+Final Exam Mark: 44.0
+Total Mark: 48.8
+Final Grade: F
+--------------------------------------------------
+Student ID: 67
+Student Name: 54
+Test 1 Mark: 34.0
+Assignment 1 Mark: 45.0
+Test 2 Mark: 78.0
+Assignment 2 Mark: 56.0
+Final Exam Mark: 67.0
+Total Mark: 61.5
+Final Grade: CR2
+--------------------------------------------------
+Student ID: C555555
+Student Name: JESSICA CHASTAIN
+Test 1 Mark: 78.0
+Assignment 1 Mark: 78.0
+Test 2 Mark: 67.0
+Assignment 2 Mark: 78.0
+Final Exam Mark: 67.0
+Total Mark: 70.3
+Final Grade: DI2
+--------------------------------------------------

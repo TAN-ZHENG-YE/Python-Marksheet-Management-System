@@ -1,0 +1,110 @@
+Student ID: D2203678
+Student Name: HUGH JACKMAN
+Test 1 Mark: 90.0
+Assignment 1 Mark: 89.0
+Test 2 Mark: 87.0
+Assignment 2 Mark: 76.0
+Final Exam Mark: 67.0
+Total Mark: 74.4
+Final Grade: DI2
+--------------------------------------------------
+Student ID: C2345678
+Student Name: EMMA STONE
+Test 1 Mark: 56.0
+Assignment 1 Mark: 45.0
+Test 2 Mark: 45.0
+Assignment 2 Mark: 76.0
+Final Exam Mark: 56.0
+Total Mark: 55.800000000000004
+Final Grade: PS1
+--------------------------------------------------
+Student ID: D3345677
+Student Name: STEVE CARELL
+Test 1 Mark: 12.0
+Assignment 1 Mark: 12.0
+Test 2 Mark: 12.0
+Assignment 2 Mark: 34.0
+Final Exam Mark: 42.0
+Total Mark: 32.2
+Final Grade: F
+--------------------------------------------------
+Student ID: B111111
+Student Name: TOM HANKS
+Test 1 Mark: 34.0
+Assignment 1 Mark: 45.0
+Test 2 Mark: 67.0
+Assignment 2 Mark: 77.0
+Final Exam Mark: 33.0
+Total Mark: 42.1
+Final Grade: F
+--------------------------------------------------
+Student ID: B2234899
+Student Name: JAVIER BARDEM
+Test 1 Mark: 23.0
+Assignment 1 Mark: 45.0
+Test 2 Mark: 34.0
+Assignment 2 Mark: 66.0
+Final Exam Mark: 56.0
+Total Mark: 50.400000000000006
+Final Grade: PS2
+--------------------------------------------------
+Student ID: D456799
+Student Name: BEN MENDELSOHN
+Test 1 Mark: 78.0
+Assignment 1 Mark: 67.0
+Test 2 Mark: 67.0
+Assignment 2 Mark: 65.0
+Final Exam Mark: 73.0
+Total Mark: 71.5
+Final Grade: DI2
+--------------------------------------------------
+Student ID: B2211111
+Student Name: JULIANNE MOORE
+Test 1 Mark: 12.0
+Assignment 1 Mark: 23.0
+Test 2 Mark: 45.0
+Assignment 2 Mark: 32.0
+Final Exam Mark: 15.0
+Total Mark: 20.2
+Final Grade: F
+--------------------------------------------------
+Student ID: C3589999
+Student Name: STEVEN CHAN
+Test 1 Mark: 34.0
+Assignment 1 Mark: 56.0
+Test 2 Mark: 78.0
+Assignment 2 Mark: 53.0
+Final Exam Mark: 99.0
+Total Mark: 81.5
+Final Grade: HD2
+--------------------------------------------------
+Student ID: B1348999
+Student Name: HELEN LING
+Test 1 Mark: 99.0
+Assignment 1 Mark: 77.0
+Test 2 Mark: 88.0
+Assignment 2 Mark: 99.0
+Final Exam Mark: 89.0
+Total Mark: 89.7
+Final Grade: HD1
+--------------------------------------------------
+Student ID: C899923
+Student Name: MUHAMMAD AMIRUL BIN HAIZDUN
+Test 1 Mark: 34.0
+Assignment 1 Mark: 67.0
+Test 2 Mark: 89.0
+Assignment 2 Mark: 78.0
+Final Exam Mark: 77.0
+Total Mark: 73.0
+Final Grade: DI2
+--------------------------------------------------
+Student ID: C223212
+Student Name: NOR AISHAH BINTI MOHD FAZLI
+Test 1 Mark: 56.0
+Assignment 1 Mark: 45.0
+Test 2 Mark: 67.0
+Assignment 2 Mark: 65.0
+Final Exam Mark: 65.0
+Total Mark: 62.3
+Final Grade: CR2
+--------------------------------------------------

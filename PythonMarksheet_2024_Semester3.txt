@@ -1,0 +1,60 @@
+Student ID: C156678
+Student Name: YONG ZHAO WEN
+Test 1 Mark: 88.0
+Assignment 1 Mark: 78.0
+Test 2 Mark: 67.0
+Assignment 2 Mark: 76.0
+Final Exam Mark: 88.0
+Total Mark: 83.7
+Final Grade: HD2
+--------------------------------------------------
+Student ID: B2347888
+Student Name: YANG LIM
+Test 1 Mark: 66.0
+Assignment 1 Mark: 55.0
+Test 2 Mark: 44.0
+Assignment 2 Mark: 66.0
+Final Exam Mark: 45.0
+Total Mark: 50.1
+Final Grade: PS2
+--------------------------------------------------
+Student ID: C987633
+Student Name: GELEN TUN PANG
+Test 1 Mark: 23.0
+Assignment 1 Mark: 23.0
+Test 2 Mark: 44.0
+Assignment 2 Mark: 11.0
+Final Exam Mark: 55.0
+Total Mark: 43.1
+Final Grade: F
+--------------------------------------------------
+Student ID: TZUYU TANG
+Student Name: 4
+Test 1 Mark: 54.0
+Assignment 1 Mark: 56.0
+Test 2 Mark: 77.0
+Assignment 2 Mark: 88.0
+Final Exam Mark: 99.0
+Total Mark: 86.9
+Final Grade: HD1
+--------------------------------------------------
+Student ID: B77778
+Student Name: FANG HIM LIM
+Test 1 Mark: 45.0
+Assignment 1 Mark: 34.0
+Test 2 Mark: 67.0
+Assignment 2 Mark: 86.0
+Final Exam Mark: 65.0
+Total Mark: 62.2
+Final Grade: CR2
+--------------------------------------------------
+Student ID: D3367777
+Student Name: NUR FARISHA BINTI MOHD QAIZ
+Test 1 Mark: 77.0
+Assignment 1 Mark: 66.0
+Test 2 Mark: 88.0
+Assignment 2 Mark: 79.0
+Final Exam Mark: 99.0
+Total Mark: 90.4
+Final Grade: HD1
+--------------------------------------------------
